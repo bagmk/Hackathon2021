@@ -72,7 +72,7 @@ Market growth in North America is driven majorly by the increased demand for hig
 </table>
 <table align="center">
      <tr>
-      <td>  The following visualization shows a storm prediction feature used in the QNN and QPC.</td>
+      <td>  The following visualization shows a storm prediction feature used in the amplitude encoding filter.</td>
      </tr>    
 </table>
 
